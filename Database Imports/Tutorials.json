@@ -1,0 +1,698 @@
+[
+  {
+    "title": "Alacritty: A GPU-Accelerated Terminal for Linux",
+    "videoId": "GsREF_GO2-g",
+    "duration": "13:00",
+    "category": "commands",
+    "order": 1,
+    "timestamp": 0
+  },
+  {
+    "title": "NixOS Review: The Most Powerful Linux Distro in 2026?",
+    "videoId": "GrOmDlM_28Y",
+    "duration": "13:39",
+    "category": "advanced",
+    "order": 2,
+    "timestamp": 0
+  },
+  {
+    "title": "The 'fortune' Command in Linux (Hidden Terminal Fun!)",
+    "videoId": "C7p5Qc-S4GY",
+    "duration": "9:53",
+    "category": "commands",
+    "order": 3,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Learn Linux Faster: 5 Proven Tips",
+    "videoId": "yC899Za2ivU",
+    "duration": "16:26",
+    "category": "beginner",
+    "order": 4,
+    "timestamp": 0
+  },
+  {
+    "title": "How To Use The Stat Command In Linux (Complete Guide)",
+    "videoId": "MYE4W32oCfA",
+    "duration": "25:42",
+    "category": "commands",
+    "order": 5,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use the Linux uniq Command (with Examples)",
+    "videoId": "2b8jwRomkWM",
+    "duration": "17:51",
+    "category": "commands",
+    "order": 6,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Commands: How To Use 'who' And 'w' Commands",
+    "videoId": "9OZgZl0QoUY",
+    "duration": "16:24",
+    "category": "commands",
+    "order": 7,
+    "timestamp": 0
+  },
+  {
+    "title": "Learn the yes Command in Linux – Complete Beginner's Guide",
+    "videoId": "VSt0XS3MCUA",
+    "duration": "16:02",
+    "category": "commands",
+    "order": 8,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux file Command Guide – How to Identify Files",
+    "videoId": "6KdUTQWoW94",
+    "duration": "7:36",
+    "category": "commands",
+    "order": 9,
+    "timestamp": 0
+  },
+  {
+    "title": "Unlock the Power of the Linux tree Command",
+    "videoId": "b5F8xpHsGn8",
+    "duration": "15:14",
+    "category": "commands",
+    "order": 10,
+    "timestamp": 0
+  },
+  {
+    "title": "Touch Command Made Easy (Linux Crash Course)",
+    "videoId": "bP0dwXU8B64",
+    "duration": "15:56",
+    "category": "commands",
+    "order": 11,
+    "timestamp": 0
+  },
+  {
+    "title": "journalctl Basics: How to Easily Check Your Linux Logs",
+    "videoId": "0dG3vUYt7Uk",
+    "duration": "19:34",
+    "category": "system",
+    "order": 12,
+    "timestamp": 0
+  },
+  {
+    "title": "How to use the nslookup command to query DNS",
+    "videoId": "B8Ci5uipgQI",
+    "duration": "12:22",
+    "category": "networking",
+    "order": 13,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use cal Command in Linux: Essential Terminal Tutorial",
+    "videoId": "hBsgsKl9fxA",
+    "duration": "6:02",
+    "category": "commands",
+    "order": 14,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use the ip Command in Linux: A Beginner's Guide",
+    "videoId": "wHfIFZlDxtU",
+    "duration": "16:44",
+    "category": "networking",
+    "order": 15,
+    "timestamp": 0
+  },
+  {
+    "title": "uname Command Simplified: Quick Way to Check Linux System Details",
+    "videoId": "M3b5xj0jZkQ",
+    "duration": "9:06",
+    "category": "commands",
+    "order": 16,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Basics: How to Use the sort Command to Organize Data",
+    "videoId": "2B16aYGzIEQ",
+    "duration": "7:12",
+    "category": "commands",
+    "order": 17,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use the ss Command (Linux Crash Course Series)",
+    "videoId": "phY8Q7Woxsw",
+    "duration": "6:56",
+    "category": "networking",
+    "order": 18,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use AppImages on Linux: A Beginner's Guide",
+    "videoId": "w9TbSqahpSs",
+    "duration": "11:35",
+    "category": "beginner",
+    "order": 19,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Basics: Understanding the time Command for New Users",
+    "videoId": "M6PYckCJcLw",
+    "duration": "12:10",
+    "category": "commands",
+    "order": 20,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use the date Command in Linux: Step-by-Step Tutorial",
+    "videoId": "oOrSyhVCzRY",
+    "duration": "13:31",
+    "category": "commands",
+    "order": 21,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use the dig Command in Linux | DNS Lookup Tutorial",
+    "videoId": "_6aL4m8aDjc",
+    "duration": "14:17",
+    "category": "networking",
+    "order": 22,
+    "timestamp": 0
+  },
+  {
+    "title": "Learn the tee Command in Linux: Redirect and Log Output Easily",
+    "videoId": "wzc2KPJaJeo",
+    "duration": "11:04",
+    "category": "commands",
+    "order": 23,
+    "timestamp": 0
+  },
+  {
+    "title": "How to use the kill command in Linux (Linux Crash Course Series)",
+    "videoId": "5ER65GtElmo",
+    "duration": "16:03",
+    "category": "processes",
+    "order": 24,
+    "timestamp": 0
+  },
+  {
+    "title": "How to use the hostname command (Linux Crash Course Series)",
+    "videoId": "0zzoi-veTm4",
+    "duration": "13:12",
+    "category": "system",
+    "order": 25,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Process Tuning Made Easy: Understanding nice and renice",
+    "videoId": "VjZKvkZQm1U",
+    "duration": "16:34",
+    "category": "processes",
+    "order": 26,
+    "timestamp": 0
+  },
+  {
+    "title": "Understanding Variables on the Linux Command-Line",
+    "videoId": "ysUwmjrXG2M",
+    "duration": "18:01",
+    "category": "intermediate",
+    "order": 27,
+    "timestamp": 0
+  },
+  {
+    "title": "Quickly Find Any File in Linux with the locate Command",
+    "videoId": "xg9GcuxeRwk",
+    "duration": "10:46",
+    "category": "commands",
+    "order": 28,
+    "timestamp": 0
+  },
+  {
+    "title": "What's the deal with Flatpak? (Linux Crash Course Series)",
+    "videoId": "IG2wTCacEtQ",
+    "duration": "15:46",
+    "category": "package-management",
+    "order": 29,
+    "timestamp": 0
+  },
+  {
+    "title": "The Linux Crash Course - What are 'snap' Packages?",
+    "videoId": "xOSe3n6vkZ4",
+    "duration": "27:10",
+    "category": "package-management",
+    "order": 30,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Easy Terminal Commands for Inspecting Hardware",
+    "videoId": "oGyJr-iUwt8",
+    "duration": "19:39",
+    "category": "system",
+    "order": 31,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux File Transfers Made Easy with rsync",
+    "videoId": "KG78O53u8rY",
+    "duration": "22:57",
+    "category": "file-management",
+    "order": 32,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course Series - Using the passwd Command",
+    "videoId": "M9FccMReqzQ",
+    "duration": "16:14",
+    "category": "security",
+    "order": 33,
+    "timestamp": 0
+  },
+  {
+    "title": "Transferring files with the scp Command (Linux Crash Course Series)",
+    "videoId": "Aa7tKMmeFZI",
+    "duration": "20:03",
+    "category": "file-management",
+    "order": 34,
+    "timestamp": 0
+  },
+  {
+    "title": "Demystifying the top Command in Linux | Linux Crash Course Series",
+    "videoId": "WsR11EGF9PA",
+    "duration": "27:08",
+    "category": "processes",
+    "order": 35,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The lsof Command",
+    "videoId": "n9nZ1ellaV0",
+    "duration": "23:49",
+    "category": "processes",
+    "order": 36,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The cut Command",
+    "videoId": "GYP2T34v56E",
+    "duration": "14:25",
+    "category": "commands",
+    "order": 37,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The tr Command",
+    "videoId": "4qP5xA_epXo",
+    "duration": "13:09",
+    "category": "commands",
+    "order": 38,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Learn The 'man' Command",
+    "videoId": "7BG-Devm7sA",
+    "duration": "17:31",
+    "category": "beginner",
+    "order": 39,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The zypper Command",
+    "videoId": "KFvpdDNahXc",
+    "duration": "15:26",
+    "category": "package-management",
+    "order": 40,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Desktop Environments",
+    "videoId": "WPIFfMyi9Q0",
+    "duration": "48:31",
+    "category": "beginner",
+    "order": 41,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - What is a 'Distribution' of Linux?",
+    "videoId": "6EKzuBAEbOA",
+    "duration": "51:45",
+    "category": "beginner",
+    "order": 42,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Use The ls Command on the Linux Command Line",
+    "videoId": "43hcVCt_GMc",
+    "duration": "27:35",
+    "category": "commands",
+    "order": 43,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The 'watch' Command",
+    "videoId": "aSWVwdr2_n8",
+    "duration": "12:41",
+    "category": "commands",
+    "order": 44,
+    "timestamp": 0
+  },
+  {
+    "title": "What is $PATH on a Linux Shell? (The Linux Crash Course Series)",
+    "videoId": "hk0RwVC6uts",
+    "duration": "21:52",
+    "category": "intermediate",
+    "order": 45,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Understanding Logging",
+    "videoId": "6uP_f_z3CbM",
+    "duration": "29:10",
+    "category": "system",
+    "order": 46,
+    "timestamp": 0
+  },
+  {
+    "title": "How To Compare Files With The Diff Command (Linux Crash Course)",
+    "videoId": "qLRQspQxvFk",
+    "duration": "22:21",
+    "category": "commands",
+    "order": 47,
+    "timestamp": 0
+  },
+  {
+    "title": "The cat Command in Linux (Featuring Real Cats) - Linux Crash Course Series",
+    "videoId": "z3nJlyrJYW4",
+    "duration": "10:06",
+    "category": "commands",
+    "order": 48,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Interpret Load Average in Linux (Linux Crash Course Series)",
+    "videoId": "4bJmzHh4pg0",
+    "duration": "15:23",
+    "category": "system",
+    "order": 49,
+    "timestamp": 0
+  },
+  {
+    "title": "How to Archive Folders in Linux (tar and gzip tutorial) - Linux Crash Course Series",
+    "videoId": "2iwumBcfd58",
+    "duration": "25:31",
+    "category": "file-management",
+    "order": 50,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The head and tail Commands",
+    "videoId": "5EqL6Fc7NNw",
+    "duration": "18:00",
+    "category": "commands",
+    "order": 51,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The df and du Commands",
+    "videoId": "ZRs5zVv_1UU",
+    "duration": "20:28",
+    "category": "file-management",
+    "order": 52,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The wget Command",
+    "videoId": "F80Z5qd2b_4",
+    "duration": "14:33",
+    "category": "commands",
+    "order": 53,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The ping Command",
+    "videoId": "DOVsoWJAxuM",
+    "duration": "15:17",
+    "category": "networking",
+    "order": 54,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Understanding Memory and Swap Usage",
+    "videoId": "XTMyJ5l0GLg",
+    "duration": "20:55",
+    "category": "system",
+    "order": 55,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The dnf Command",
+    "videoId": "mL1hMBYP1bQ",
+    "duration": "28:01",
+    "category": "package-management",
+    "order": 56,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course: The echo Command (Simple, Easy Guide)",
+    "videoId": "S_ySzMHxMjw",
+    "duration": "6:33",
+    "category": "commands",
+    "order": 57,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Bash History",
+    "videoId": "Odo6leOY5Fw",
+    "duration": "14:32",
+    "category": "commands",
+    "order": 58,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The grep Command",
+    "videoId": "Tc_jntovCM0",
+    "duration": "14:57",
+    "category": "commands",
+    "order": 59,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The sar Command",
+    "videoId": "_4WVPSfGqos",
+    "duration": "8:40",
+    "category": "system",
+    "order": 60,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - usermod",
+    "videoId": "p8QOnty6rSU",
+    "duration": "9:47",
+    "category": "security",
+    "order": 61,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - sudo",
+    "videoId": "07JOqKOBRnU",
+    "duration": "26:11",
+    "category": "security",
+    "order": 62,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - htop",
+    "videoId": "tU9cO9FwDx0",
+    "duration": "16:43",
+    "category": "processes",
+    "order": 63,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The ps Command",
+    "videoId": "wYwGNgsfN3I",
+    "duration": "15:19",
+    "category": "processes",
+    "order": 64,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Data Streams (stdin, stdout & stderr)",
+    "videoId": "zMKacHGuIHI",
+    "duration": "17:13",
+    "category": "intermediate",
+    "order": 65,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - nano (command-line text editor)",
+    "videoId": "DLeATFgGM-A",
+    "duration": "12:46",
+    "category": "commands",
+    "order": 66,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - User Account & Password Expiration",
+    "videoId": "UYBPpaWUT64",
+    "duration": "12:42",
+    "category": "security",
+    "order": 67,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course: Background (bg) and Foreground (fg)",
+    "videoId": "HzsgkzCL9ow",
+    "duration": "12:12",
+    "category": "processes",
+    "order": 68,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Bash Aliases",
+    "videoId": "Ok_kD_sgNcs",
+    "duration": "17:58",
+    "category": "commands",
+    "order": 69,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Public Key Authentication",
+    "videoId": "bfwfRCCFTVI",
+    "duration": "19:05",
+    "category": "security",
+    "order": 70,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Scheduling Tasks with Cron",
+    "videoId": "7cbP7fzn0D8",
+    "duration": "19:25",
+    "category": "system",
+    "order": 71,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - awk",
+    "videoId": "oPEnvuj9QrI",
+    "duration": "16:07",
+    "category": "advanced",
+    "order": 72,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The sed Command",
+    "videoId": "nXLnx8ncZyE",
+    "duration": "15:25",
+    "category": "advanced",
+    "order": 73,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Managing Groups",
+    "videoId": "GnlgAD8-GhE",
+    "duration": "23:43",
+    "category": "security",
+    "order": 74,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The /etc/fstab file",
+    "videoId": "A7xH74o6kY0",
+    "duration": "30:29",
+    "category": "system",
+    "order": 75,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Managing Users",
+    "videoId": "19WOD84JFxA",
+    "duration": "32:59",
+    "category": "security",
+    "order": 76,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Everything You Need to Know for Formatting and Mounting Disks",
+    "videoId": "2Z6ouBYfZr8",
+    "duration": "32:28",
+    "category": "system",
+    "order": 77,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - systemd: Using the systemctl command",
+    "videoId": "5JVBpXiYMKo",
+    "duration": "26:32",
+    "category": "system",
+    "order": 78,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Symbolic Links",
+    "videoId": "zfSa-PEU3h4",
+    "duration": "30:07",
+    "category": "file-management",
+    "order": 79,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The find command",
+    "videoId": "skTiK_6DdqU",
+    "duration": "25:56",
+    "category": "commands",
+    "order": 80,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Understanding File & Directory Permissions",
+    "videoId": "4e669hSjaX8",
+    "duration": "35:48",
+    "category": "security",
+    "order": 81,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course: Navigating the Linux Filesystem",
+    "videoId": "BNL3qBN9pP0",
+    "duration": "30:28",
+    "category": "beginner",
+    "order": 82,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The Arch User Repository (AUR)",
+    "videoId": "cBeSJvYkV7I",
+    "duration": "14:08",
+    "category": "package-management",
+    "order": 83,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The Pacman Command",
+    "videoId": "HD7jJEh4ZaM",
+    "duration": "19:57",
+    "category": "package-management",
+    "order": 84,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - The apt Command",
+    "videoId": "1kicKTbK768",
+    "duration": "16:27",
+    "category": "package-management",
+    "order": 85,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Setting the Hostname of your Linux Workstation or Server",
+    "videoId": "91dNq4C6260",
+    "duration": "9:45",
+    "category": "system",
+    "order": 86,
+    "timestamp": 0
+  },
+  {
+    "title": "Linux Crash Course - Installing Updates",
+    "videoId": "aec82pfraHw",
+    "duration": "12:26",
+    "category": "package-management",
+    "order": 87,
+    "timestamp": 0
+  }
+]
