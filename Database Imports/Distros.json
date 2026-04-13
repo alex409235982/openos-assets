@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Linux Mint",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg",
+    "screenshot": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/ed756416-0f1f-4be2-b0ac-e74428ac599e.png",
+    "category": "beginner",
+    "description": "Easy to use for newcomers.",
+    "longDescription": "Linux Mint is a community-developed Linux distribution based on Ubuntu. First released in 2006, Linux Mint is often noted for its ease of use, out-of-the-box functionality, and appeal to desktop users. It comes bundled with a selection of free and open-source software. The default desktop environment is Cinnamon, developed by the Linux Mint team, with MATE and Xfce available as alternatives. A Debian based version of Linux Mint also exists, called Linux Mint Debian Edition (LMDE). Linux Mint is available for x86-64 systems.",
+    "order": 0
+  },
+  {
+    "name": "Ubuntu",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg",
+    "screenshot": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ubuntu_25.10_default_desktop_-_English.png",
+    "category": "beginner",
+    "description": "Popular for everyday use.",
+    "longDescription": "Ubuntu is a Linux distribution based on Debian and composed primarily of free and open-source software. Developed by the British company Canonical and a community of contributors under a meritocratic governance model, Ubuntu is released in multiple official editions: Desktop, Server, and Core for IoT and robotic devices.",
+    "order": 1
+  },
+  {
+    "name": "Fedora",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg",
+    "screenshot": "https://linux-desktop.net/wp-content/uploads/2020/10/applauncher.jpg",
+    "category": "beginner",
+    "description": "Cutting-edge features with stability.",
+    "longDescription": "Fedora Linux is a free and open-source Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project. It contains software distributed under various free and open-source licenses and aims to be on the leading edge of open-source technologies.",
+    "order": 2
+  },
+  {
+    "name": "Arch Linux",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/3840px-Arch_Linux_%22Crystal%22_icon.svg.png",
+    "screenshot": "https://www.debugpoint.com/wp-content/uploads/2022/12/KDE-Plasma-6-with-Arch-Linux.jpg",
+    "category": "advanced",
+    "description": "DIY installation and complete control over your system.",
+    "longDescription": "Arch Linux is an open source, rolling release Linux distribution. Arch Linux is kept up-to-date by regularly updating the individual pieces of software that it comprises. It provides monthly snapshots which are used as installation media. Arch Linux is intentionally minimal, and is meant to be configured by the user during installation so they may add only what they require.",
+    "order": 3
+  },
+  {
+    "name": "CachyOS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b8/CachyOS_Logo.svg",
+    "screenshot": "https://i0.wp.com/9to5linux.com/wp-content/uploads/2024/06/chy624.webp?fit=1920%2C985&ssl=1",
+    "category": "gaming",
+    "description": "Built for performance (mainly gaming).",
+    "longDescription": "CachyOS is a performance-focused Arch Linux distribution that rebuilds packages with modern CPU optimizations, ships a custom-tuned kernel, and provides a polished installation experience. Built for users who want Arch's rolling-release model with measurable speed improvements out of the box.",
+    "order": 4
+  },
+  {
+    "name": "Kali Linux",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg",
+    "screenshot": "https://www.zdnet.com/a/img/resize/2f7ca79f7a4ad7b1b331763f04d65f4bfc1ab49c/2024/08/06/52bdc831-6280-4959-bb55-61b60c7cb40c/kali.jpg?auto=webp&width=1280",
+    "category": "security",
+    "description": "Used for penetration testing/security auditing.",
+    "longDescription": "Kali Linux is a Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security. The software is based on the testing branch of the Debian Linux Distribution: most packages Kali uses are imported from the Debian repositories. Kali Linux has gained popularity in the cybersecurity community due to its comprehensive set of tools designed for penetration testing, vulnerability analysis, and reverse engineering.",
+    "order": 5
+  },
+  {
+    "name": "Manjaro",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg",
+    "screenshot": "https://manjaro.org/_ipx/w_700/desktops.webp",
+    "category": "intermediate",
+    "description": "Arch-based with user-friendly approach.",
+    "longDescription": "Moanjaro is a free and open-source Linux distribution based on the Arch Linux operating system with a focus on user-friendliness, accessibility, and improved software testing and stability compared to its upstream sources. It uses a rolling release update model with Pacman-derived package managers. Manjaro is developed mainly in Austria, France and Germany.",
+    "order": 6
+  },
+  {
+    "name": "Debian",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg",
+    "screenshot": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Debian_12_Bookworm_GNOME_Desktop_English.png/1280px-Debian_12_Bookworm_GNOME_Desktop_English.png",
+    "category": "advanced",
+    "description": "Universal operating system, foundation for other OSes.",
+    "longDescription": "Debian is a Linux distribution developed by the Debian Project, established by Ian Murdock in August 1993. Debian is the second-oldest Linux distribution still in active development; only Slackware is older. Debian forms the basis of many other Linux distributions.",
+    "order": 7
+  },
+  {
+    "name": "KDE Neon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Neon-logo.svg",
+    "screenshot": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/KDE_neon_6_Breeze_Desktop_English.png/1280px-KDE_neon_6_Breeze_Desktop_English.png",
+    "category": "intermediate",
+    "description": "Latest KDE software on a stable base.",
+    "longDescription": "KDE Neon is a Linux distribution developed by KDE based on Ubuntu long-term support (LTS) releases, bundled with a set of additional software repositories containing the latest versions of the Plasma 6 desktop environment/framework, Qt 6 toolkit and other compatible KDE software.",
+    "order": 8
+  },
+  {
+    "name": "Black Arch",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/BlackArch_logo.png",
+    "screenshot": "https://miro.medium.com/v2/1*nBOafpLAkPV-JSezpcKaJA.jpeg",
+    "category": "security",
+    "description": "Arch-based pentesting distribution that has 2,800+ tools.",
+    "longDescription": "BlackArch is a penetration testing distribution based on Arch Linux that provides a large number of security tools. It is an open-source distro created specially for penetration testers and security researchers. The repository contains more than 2,800 tools that can be installed individually or in groups. BlackArch Linux is compatible with existing Arch Linux installations.",
+    "order": 9
+  },
+  {
+    "name": "Zorin OS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Zorin_OS.svg",
+    "screenshot": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Zorin-18-Desktop_Installed.png/1280px-Zorin-18-Desktop_Installed.png",
+    "category": "beginner",
+    "description": "User interface has easy transition for Windows users.",
+    "longDescription": "Zorin OS is a Linux distribution based on Ubuntu with both free and paid versions. It uses a GNOME and Xfce 4 desktop environment by default, although the desktop is heavily customized for users more familiar with Windows and macOS. Zorin OS Pro is a premium paid version offering additional desktop appearance customization options and apps for creative users such as for photo or video editing.",
+    "order": 10
+  },
+  {
+    "name": "blendOS",
+    "logo": "https://blendos.co/assets/img/logo.webp",
+    "screenshot": "https://blendos.co/assets/img/blendOS-v4-screenshot.webp",
+    "category": "intermediate",
+    "description": "Run Android apps out of the box, has immutable architecture.",
+    "longDescription": "blendOS is a Arch Linux made declarative, immutable and atomic. With Android app support and Fedora, Debian, CentOS Stream and Ubuntu containers available, as well as system packages/DEs/kernels from Arch Linux and the AUR.",
+    "order": 11
+  }
+]
